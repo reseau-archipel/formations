@@ -24,6 +24,7 @@
 - Lilian Ricaud
 - Gwendal Briand
 - David Delsart
+- Catherine Lamarre
 
 **Source:** http://pad.comptoir.net/p/formation_communs_1h
 
